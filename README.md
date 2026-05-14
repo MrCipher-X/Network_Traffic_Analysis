@@ -51,9 +51,8 @@ graph TD;
 
 <p align="center">
   <!-- NOTE: REPLACE THESE SRC LINKS WITH YOUR ACTUAL GITHUB IMAGE PATHS -->
-  <img src="https://via.placeholder.com/400x250/1a1a1a/00FFFF?text=TCP+Stream+Reassembly" width="45%" alt="TCP Stream Evidence">
+  <img src="https://github.com/MrCipher-X/Network_Traffic_Analysis/blob/main/handshake.png" width="45%" alt="TCP Stream Evidence">
   &nbsp; &nbsp;
-  <img src="https://via.placeholder.com/400x250/1a1a1a/8A2BE2?text=DNS+Tunneling+Detected" width="45%" alt="DNS Tunneling Evidence">
 </p>
 
 ---
